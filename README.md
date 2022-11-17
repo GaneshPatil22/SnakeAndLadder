@@ -1,1 +1,3 @@
 # SnakeAndLadder
+
+![Screenshot](snakeLadder.png)
